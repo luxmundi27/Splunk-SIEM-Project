@@ -4,6 +4,9 @@
 
 ## Project Objectives
 To simulate a basic SOC environment by collecting and monitoring system logs using Splunk ES, and creating arlets for potential security incidents( Brute force attempts, failed logins etc), create an vizualizse results on dashboards.
+### SOC Labs with Splunk Forwarders ingesting logs to Splunk ES
+<img src="Resources/Forwarders.png" alt="lab image with forwarders"> 
+
 ## Tools Used
 - Splunk ES (installed locally)
 - Splunk Forwarders (Installed on VMs)
