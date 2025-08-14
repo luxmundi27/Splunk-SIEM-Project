@@ -23,7 +23,7 @@ To simulate a basic SOC environment by collecting and monitoring system logs usi
   - Used Splunk Universal Forwarders to collect logs from VMs to Splunk ES
   - Index and Tag Log sources as Windows and Sysmon
   ## 4 Create Dashboards
-  ## 5 Set Detection Alets
+  ## 5 Set Detection Alerts
   ## 6 Simulate Attacks
   ## 7 Document Your Findings
   
